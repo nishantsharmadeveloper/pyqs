@@ -1,0 +1,22 @@
+Roll No.
+B. Tech. 6th Semester (ECE) (Open
+Elective-I) Examination - May, 2025
+3331
+PYTHON PROGRAMMING
+Time:Three hours ]
+Back
+Paper: OEC-ECE-318-G
+Before anstering the questions candidates should ensure that they
+have been supplied the correct and complete question paper. No
+complaint in this regard, will be entertained after examtination.
+(Maxitum Marks : 75
+Note: Attempt five questions in all selecting one question
+from each Unit. Question no. 1 is compulsory. All
+questions, carry equal marks.
+1. Explain split0 and join() functions in Python.
+exarnple.
+3x5= 15
+(iWhat are local variables and global variables in
+Python ?
+sn What is type conversion in Python ? Show with
+P, T.O.
