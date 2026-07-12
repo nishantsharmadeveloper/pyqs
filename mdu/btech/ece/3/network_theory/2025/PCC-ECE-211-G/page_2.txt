@@ -1,0 +1,20 @@
+3.
+38
+voltages.
+(2)
+(i) Arrange the result of (a) in standard
+mathematical form and solve for the node
+(ii) Determine all branch currents.
+28V(
+3
+ww
+(a) Explain briefly the steps taken to solve a circuit
+using Norton Theorem.
+22
+3038
+(b) Determine the Norton equivalent circuits at the
+terminals x-y in the figure given below:
+32
+sto
+22
+6
