@@ -1,0 +1,19 @@
+(4)
+7. Write briefly about the following:
+8.
+(a) Driving points functions.
+(b) Properties of Pole -zero location.
+(c) Convolution Theorem
+Unit-IV
+3038
+3x5=15
+(a) Derive Z and Y parameters of the given two port
+network:
+(b) Discuss the conditions for reciprocity and
+symmetry.
+5
+10
+(a) Enumerate the properties of Incidence matrix in
+graph theory.
+8
+(b) Design properties of prototype High pass filter.7
