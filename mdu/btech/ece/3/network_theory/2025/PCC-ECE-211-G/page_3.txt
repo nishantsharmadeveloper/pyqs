@@ -1,0 +1,24 @@
+(3)
+. (a) Discuss in details the salient features of
+Exponential Fourier series.
+(b) Derive the study state response of a half wave
+rectifier with time T/2 period and amplitude
+2 Volt.
+x()= Aet for t>0
+3038
+3038
+5.(a) Enumerate salient features of Partial Fraction. 8
+(b) Find out Fourier transform of the exponential
+function given by:
+for t <0 where a >0
+Unit-II
+6
+7
+6. (a) Discuss the steps taken to solve a RC networK
+bns viioo- Without initial conditions. paiDaiCI d) °
+o 06 f
+7
+(b) Consider the circuit given below. The combination
+has been charged with a source of 12V as shown.
+Detérmine the voltage across each capacitor. 9
+PTO,
