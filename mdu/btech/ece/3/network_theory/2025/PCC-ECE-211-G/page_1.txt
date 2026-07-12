@@ -1,0 +1,28 @@
+B.
+Examination, December-2025
+NETWORK THEORY
+Paper- PCC-ECE-211-G
+Time allowed : 3 hours]
+Vote : Attempt five questions in total. All questions carry
+equal marks. Question Number I is compulsory.
+Attempt one question from each unit.
+(a) State and explain Superposition theorem.
+(b) Explain the term duality in networks.
+(c) State and discuss the singularity function.
+(d) Discuss the term resonance in RLC circuits.
+(e) Define two port network with diagram.
+() Enumerate salient features band stop filter.
+6x2.5=15
+Unit-I
+(a) Solve the equations using Matrix approach: 6
+101, - 41, + 21, – 40
+[Maximum marks : 75
+- 61, + 121,- 31, =4
+21,-41,+1O1,--40
+(b) For the figure given below
+P4-Q-9 (25)
+*..... (i)
+.ii)
+(i) writea set of node voltage equations.
+iii)
+PT.O.
