@@ -1,0 +1,29 @@
+(i What are functions in P'ython ? Explain with
+suitable example.
+(v) How do you write comments in
+in detail.
+UNIT-I
+Write Python Program to reverse a number and
+also find the Sum
+in python ? Explain
+n of digits in the reversed number.
+Prompt the user for input.
+(o Write the rules for choosing names of variables. A
+3. (a) Ilustrate the different types of control fo
+statements available in Python with flowcharts ?
+Explain with suitable examples.
+UNIT- I
+(b) Give a note on each of the below Python language
+constructs: () quotes (single, double and triple) (i)
+multiline statements (ii) indentation
+7
+7
+immutable with an example.
+8
+4. (a) write Python code to determine whether the given
+string is a Palindrome or not using slicing.
+7
+(b) Explain the use of join) and split) ) string methods
+with
+Wath examples. Describe why strings are
+8
