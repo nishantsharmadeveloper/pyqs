@@ -1,0 +1,7 @@
+9. (a) What is classes ? how objects are created discuss
+in details, explain its attributes and methods
+defining classes.
+7
+(b) Differentiate between compile-time and run-time
+polymorphism ?
+8
