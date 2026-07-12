@@ -1,0 +1,30 @@
+5, Write the syntax to create, open and close a file?
+List out different types of file modes in python ? 7
+R6) Write a Python program that prints multiplication
+table of a given number.
+UNIT-1
+6. (a) Give a comparison between
+comparison between lists, tuples,
+dictionaries and sets.
+8
+(b) Write Python program to swap two umbers
+without using Intermediate/Temporary variables.
+Prompt the user for input.
+example.
+7
+7. a What is a list in Python ? How to create nested
+lists? Demonstrate how to create and print a
+2-dimensional matrix with lists.
+UNIT-IV
+8
+(b) Explain recursive function with the help of
+8
+3331- -(P-4)(0-9)(25) (3)
+7
+Define polymorphism. Demonstrate polymorphism
+with suitable example.
+7
+6) What is operator overloading how we can be
+implemented in Python ? Give an example.
+8
+P. T.O.
